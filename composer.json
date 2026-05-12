@@ -1,0 +1,17 @@
+{
+  "name": "cheng1106ai/happyhorse-ai-video",
+  "description": "HappyHorse AI Video Generator - Free online AI video generator",
+  "type": "library",
+  "homepage": "https://happyhorse-ai.video/",
+  "keywords": ["ai", "video", "generator", "text-to-video"],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4"
+  },
+  "authors": [
+    {
+      "name": "HappyHorse AI",
+      "homepage": "https://happyhorse-ai.video/"
+    }
+  ]
+}
